@@ -1,4 +1,7 @@
-# Building LLM's from scratch
+# `Building LLM's from scratch`
+This repository is my personal journey into understanding how Large Language Models (LLMs) work under the hood.  
+Instead of using pre-built libraries, I'm experimenting by coding the fundamental pieces myself, step by step.
+
 ---
 
 ## Goal
