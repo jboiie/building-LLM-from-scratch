@@ -1,4 +1,8 @@
 # Building LLM's from scratch
+---
+
+## Goal
+To explore and implement the core building blocks of LLMs in a hands-on way — starting from tokenization and moving gradually towards training small models.
 
 --- 
 
