@@ -135,3 +135,5 @@ Raw Text → Tokenization → Token IDs → Token Embedding → Positional Embed
 ---
 
 > *“The real revolution in LLMs is understanding and building every stage yourself—from text to embeddings, attention to architecture, training to evaluation.”* [1]
+
+
